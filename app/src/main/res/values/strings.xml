@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BottomNBDemo</string>
+
+    <string-array name="tabs">
+        <item>Home</item>
+        <item>Book</item>
+        <item>Explore</item>
+        <item>TV</item>
+        <item>Music</item>
+        <item>Line</item>
+    </string-array>
+</resources>
